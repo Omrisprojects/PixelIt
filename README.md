@@ -9,6 +9,4 @@ Credit to : Elliot Kroo for GifSequenceWriter.java https://creativecommons.org/l
 This repository contains the program source code, the program is build with Gui. The program takes a picture and makes a number of copies of it, in various degrees of pixalation. It then takes the copies and combine them to a GIF showing the stages of pixelation.
 also its possible to save single pixelated photo.
 
-The "PixelIt.exe" is a program ready to use. its also possible to use "PixelIt.jar" and run it with "RUN.bat" or with command "java -jar PixelIt.jar" in cmd.
-
-Its really user friendly.
+its also possible to use "PixelIt.jar" and run it with "RUN.bat"
