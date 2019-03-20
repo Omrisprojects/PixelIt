@@ -43,6 +43,9 @@ public class PixelIt {
 	 * Launch the application.
 	 */
 
+
+
+	//Test
 	//The important Thread, 
 	//make button invisible 
 	//take the picture pixel item number of times and create the GIF output.
